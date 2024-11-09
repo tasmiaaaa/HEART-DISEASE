@@ -1,1 +1,7 @@
- Hi there! I’m [Your Name], a passionate Computer Science and Engineering (CSE) student specializing in Machine Learning, Data Science, and Software Development. I enjoy building projects that solve real-world problems, exploring new technologies, and sharing my journey as I grow in the tech industry.
+  Heart Disease Prediction Using Machine Learning
+Description: This project aims to analyze medical data to predict heart disease likelihood using machine learning algorithms.
+Technologies: Python, Scikit-Learn, Pandas, Jupyter Notebook
+Key Features:
+Data preprocessing and exploratory data analysis (EDA)
+Model training with algorithms such as Logistic Regression, Decision Trees, and SVM
+Model evaluation using metrics like accuracy, precision, and recall
