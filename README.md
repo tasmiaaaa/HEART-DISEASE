@@ -1,1 +1,1 @@
-# HEART-DISEASE
+ Hi there! I’m [Your Name], a passionate Computer Science and Engineering (CSE) student specializing in Machine Learning, Data Science, and Software Development. I enjoy building projects that solve real-world problems, exploring new technologies, and sharing my journey as I grow in the tech industry.
